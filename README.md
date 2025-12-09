@@ -15,4 +15,6 @@ La web oficial del club es [Web Oficial](https://www.unicajabaloncesto.com/)
 
 Descarga el contenido del repositorio clonándolo en tu equipo con el comando
 
-`git clone`
+```
+git clone
+```
